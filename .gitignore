@@ -1,5 +1,9 @@
 # Xcode
 #
+.DS_Store
+.VolumeIcon.icns
+.fseventsd/
+Icon
 build/
 *.pbxuser
 !default.pbxuser
