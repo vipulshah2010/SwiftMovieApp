@@ -1,6 +1,3 @@
-# SwiftMovieApp
-
-
 SwiftyMovieApp
 ===================
 
